@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Watson\\Documents\\PlatziCourse\\API.Net\\API.Net.csproj",
+      "projectUniqueName": "C:\\Users\\Watson\\Documents\\PlatziCourse\\API.Net\\WebApi.Net\\API.Net.csproj",
       "projectName": "API.Net",
-      "projectPath": "C:\\Users\\Watson\\Documents\\PlatziCourse\\API.Net\\API.Net.csproj",
+      "projectPath": "C:\\Users\\Watson\\Documents\\PlatziCourse\\API.Net\\WebApi.Net\\API.Net.csproj",
       "packagesPath": "C:\\Users\\Watson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Watson\\Documents\\PlatziCourse\\API.Net\\obj\\",
+      "outputPath": "C:\\Users\\Watson\\Documents\\PlatziCourse\\API.Net\\WebApi.Net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Watson\\AppData\\Roaming\\NuGet\\NuGet.Config",
