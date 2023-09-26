@@ -64,3 +64,6 @@ C:\Users\Watson\Documents\PlatziCourse\API.Net\WebApi.Net\obj\Debug\net7.0\refin
 C:\Users\Watson\Documents\PlatziCourse\API.Net\WebApi.Net\obj\Debug\net7.0\API.Net.pdb
 C:\Users\Watson\Documents\PlatziCourse\API.Net\WebApi.Net\obj\Debug\net7.0\API.Net.genruntimeconfig.cache
 C:\Users\Watson\Documents\PlatziCourse\API.Net\WebApi.Net\obj\Debug\net7.0\ref\API.Net.dll
+C:\Users\Watson\Documents\PlatziCourse\API.Net\WebApi.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Watson\Documents\PlatziCourse\API.Net\WebApi.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Watson\Documents\PlatziCourse\API.Net\WebApi.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
