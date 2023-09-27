@@ -2,7 +2,7 @@ using webapi;
 using webapi.Models;
 
 namespace webapi.Services;
-public class CategoriaService : ICategorioService
+public class CategoriaService : ICategoriaService
 {
     TareasContext context;
 
@@ -47,7 +47,7 @@ public class CategoriaService : ICategorioService
     }
 }
 
-public interface ICategorioService
+public interface ICategoriaService
 {
     IEnumerable<Categoria> Get();
     Task Save(Categoria categoria);
